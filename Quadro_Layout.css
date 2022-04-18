@@ -1,0 +1,64 @@
+.Box_Head {
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: cyan;
+    padding: 10px;
+}
+
+.Content {
+    width: 100%;
+    height: auto;
+    margin-left: 380px;
+    margin-right: 100px;
+}
+
+.Box_LFlak {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.Box_RFlak {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.Quadros {
+    width: 200px;
+    height: 200px;
+}
+
+.Arte_central {
+    width: auto;
+    height: auto;
+    margin-bottom: 10px;
+    float: left;
+}
+
+#Arte {
+    width: 800px;
+    height: 500px;
+}
+
+section {
+    width: 100%;
+    height: auto;
+    float: center;
+}
+
+.Rodapé_Nota {
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+}
